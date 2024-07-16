@@ -1,0 +1,8 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/ft" />
+    <item>
+        <bitmap
+            android:src="@drawable/d"
+            android:gravity="center" />
+    </item>
+</layer-list>
