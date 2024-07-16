@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Food Recognizer</string>
+    <string name="button_capture">Capture Image</string>
+    <string name="food_info_placeholder">Food information will be displayed here</string>
+    <string name="image_description">Captured food image</string>
+    <string name="food_info">Food: %1$s\nCalories: %2$d</string>
+    <string name="unknown_food">Food: Unknown\nCalories: Unknown</string>
+    <string name="recognition_failed">Recognition failed</string>
+    <string name="image_view_description">image view description</string>
+</resources>
